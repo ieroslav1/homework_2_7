@@ -1,6 +1,6 @@
 package pro.sky.homework27.service;
 
-import pro.sky.homeworksspring.G_2_7_Collections_Generics_n_Maps_Final.model.Employee;
+import pro.sky.homework27.model.Employee;
 
 import java.util.Collection;
 

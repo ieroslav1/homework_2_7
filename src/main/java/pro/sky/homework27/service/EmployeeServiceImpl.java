@@ -1,9 +1,9 @@
 package pro.sky.homework27.service;
 
 import org.springframework.stereotype.Service;
-import pro.sky.homeworksspring.G_2_7_Collections_Generics_n_Maps_Final.exception.EmployeeAlreadyAddedException;
-import pro.sky.homeworksspring.G_2_7_Collections_Generics_n_Maps_Final.exception.EmployeeNotFoundException;
-import pro.sky.homeworksspring.G_2_7_Collections_Generics_n_Maps_Final.model.Employee;
+import pro.sky.homework27.exception.EmployeeAlreadyAddedException;
+import pro.sky.homework27.exception.EmployeeNotFoundException;
+import pro.sky.homework27.model.Employee;
 
 import java.util.Collection;
 import java.util.Collections;

@@ -4,8 +4,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
-import pro.sky.homeworksspring.G_2_7_Collections_Generics_n_Maps_Final.model.Employee;
-import pro.sky.homeworksspring.G_2_7_Collections_Generics_n_Maps_Final.service.EmployeeService;
+import pro.sky.homework27.model.Employee;
+import pro.sky.homework27.service.EmployeeService;
 
 import java.util.Collection;
 
